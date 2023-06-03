@@ -1,3 +1,5 @@
 /.project
 /doc
 /.settings
+/venv
+/.idea
