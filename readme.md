@@ -1,0 +1,1 @@
+These are examples of RabbitMQ usage with Python, based on examples posted on https://www.rabbitmq.com/getstarted.html
